@@ -4,4 +4,4 @@
 1. Mall Customer
 2. Superstore
 3. Avocado
-4. Death Expectancy rate
+4. Life Expectancy
