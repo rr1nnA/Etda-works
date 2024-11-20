@@ -5,3 +5,5 @@
 2. Superstore
 3. Avocado
 4. Life Expectancy
+
+ซึ่งไฟล์งานของผมทั้งหมดจะอยู่ในโฟลเดอร์ works ด้านบนนี้ครับ
